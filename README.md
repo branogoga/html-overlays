@@ -1,2 +1,4 @@
-# html-overlays
-Test HTML overlays
+## Run with `docker-compose`
+
+`docker-compose up -d`
+`docker-compose down`
